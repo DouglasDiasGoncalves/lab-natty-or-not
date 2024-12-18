@@ -2,17 +2,17 @@
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criação de apresentação - A importância da IA para o desenvolvimento de sistemas
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- ChatGPT para geração do conteúdo dos slides
+- Markslides.ai para geração dos slides
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o ChatGPT para gerar uma apresentação de 3 slides sobre a importância da IA para o desenvolvimento de sistemas. Com o conteúdo em markdown gerado, utilizei o markslides.ai para gerar a apresentação visual e a salvei em PDF.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Em poucos minutos obtive uma apresentação simples, resumida e fácil de entender.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+A IA, quando bem utilizada, é uma ferramenta que agiliza muito nossas atividades.
